@@ -10,8 +10,6 @@ public class BiomeGenForest extends BiomeGenBase
         this.spawnableCreatureList.add(new SpawnListEntry(EntityWolf.class, 5, 4, 4));
         this.theBiomeDecorator.treesPerChunk = 10;
         this.theBiomeDecorator.grassPerChunk = 2;
-        
-        //Generates 1 blueberry bush per chunk, and generates more in groups
         this.theBiomeDecorator.blueberryBushesPerChunk = 1;
     }
     /**
