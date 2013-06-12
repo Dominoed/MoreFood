@@ -13,7 +13,7 @@ Version 0.1
 
 
 
-===INSTALLATION INSTRUCTIONS:===
+===Installation Instructions:===
 
 - Open %AppData%/Roaming/.minecraft/bin (Can be located through "C:/Users/YourUsername/AppData/Roaming/.minecraft/bin").
 - Open "minecraft.jar" with WinRar, 7zip, etc.
@@ -27,7 +27,7 @@ Version 0.1
 
 
 
-===NEW ITEMS:===
+===New Items:===
 MoreFood (will eventually add) adds several new items to minecraft:
 
 - Blueberries
@@ -37,13 +37,14 @@ MoreFood (will eventually add) adds several new items to minecraft:
 
 
 
-===NEW BLOCKS:===
+===New Blocks:===
 MoreFood (again, will eventually add) adds more blocks to the game:
 
 - Blueberry Bush
 (Naturally spawns in forests)
 (Drops 0-4 blueberries)
 (Can be picked up using Silk Touch)
+
 
 
 
