@@ -1,4 +1,4 @@
-==MoreFood==
+===MoreFood===
 ----------------------------------
 
 MoreFood is a modification for Minecraft that adds more food to the game.
@@ -7,13 +7,13 @@ MoreFood is the first mod of Dom's Craft, by Dominoed. Dom's Craft will eventual
 
 
 Version 0.1
---------------------------------------------
+----------------------------------
 
 
 
 
 
-INSTALLATION INSTRUCTIONS:
+===INSTALLATION INSTRUCTIONS:===
 
 - Open %AppData%/Roaming/.minecraft/bin (Can be located through "C:/Users/YourUsername/AppData/Roaming/.minecraft/bin").
 - Open "minecraft.jar" with WinRar, 7zip, etc.
@@ -27,7 +27,7 @@ INSTALLATION INSTRUCTIONS:
 
 
 
-NEW ITEMS:
+===NEW ITEMS:===
 MoreFood (will eventually add) adds several new items to minecraft:
 
 - Blueberries
@@ -37,7 +37,7 @@ MoreFood (will eventually add) adds several new items to minecraft:
 
 
 
-NEW BLOCKS:
+===NEW BLOCKS:===
 MoreFood (again, will eventually add) adds more blocks to the game:
 
 - Blueberry Bush
